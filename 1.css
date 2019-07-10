@@ -1,0 +1,35 @@
+ *{margin: 0; padding: 0;}
+
+body {
+    width: 1000px;
+    margin: auto;
+    background: #bda2a2;
+}
+
+.motkhoi h3 {
+    background: #bbbb3e;
+    font-size: 16px;
+    padding: 10px;
+    color: white;
+    cursor: pointer;
+}
+
+.motkhoi h3.xanh {
+    background: lightblue;
+}
+
+.motkhoi h3:hover {
+    background: lightblue;
+}
+
+.hieuung {
+    width: 400px;
+    margin: auto;
+    font-family: sans-serif;
+    background: #fffdfd;
+    text-align: center;
+}
+.container {
+    text-align: center;
+}
+ 
